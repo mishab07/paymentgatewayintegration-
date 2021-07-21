@@ -1,0 +1,59 @@
+
+ body{
+    
+   background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7));
+
+  background-image: url("n1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  border: cover solid rgb(85, 23, 23);
+}
+.navbar-brand{
+  padding: 5px 9px;
+  color: rgb(72, 245, 19);
+  font-weight: 600;
+}
+.col-12{ 
+  text-align: center;
+  color: rgb(240, 255, 32);
+  font-weight: 900;
+}
+form{
+  text-align: center;
+  margin: 20px;
+}   
+h1{
+   text-align: center;
+   color: rgb(187, 185, 185);
+}
+
+h2{
+   text-align: center;
+
+   color: rgb(194, 181, 181);
+}
+
+p{
+   width: 80%;
+   margin:auto;
+   font-size: 120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
